@@ -19,8 +19,6 @@ I am working as a Machine Learning Scientist interested in Probabilistic Machine
   <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">  
 </p>
-<br />
-<br />
 
 
 ## 💬 Ask me anything about ...
