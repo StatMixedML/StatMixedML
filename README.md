@@ -1,7 +1,3 @@
-![githubbadge](https://img.shields.io/github/followers/StatMixedML?style=social)
-![githubbadge](https://img.shields.io/github/stars/StatMixedML?style=social)
-![](https://komarev.com/ghpvc/?username=StatMixedML&color=brightgreen&style=flat)
-
 ## :wave: Welcome to my Git-repo!
 
 I am working as a Machine Learning Scientist interested in 
@@ -47,10 +43,13 @@ The easiest way would be to navigate to the corresponding repo of interest and t
 
 ## 💻 Overview 
 
+![githubbadge](https://img.shields.io/github/followers/StatMixedML?style=social)
+![](https://komarev.com/ghpvc/?username=StatMixedML&color=brightgreen&style=flat)
+
 <p align="center">  
 
-<img align="center" height="100.0px" src="https://github-readme-stats.vercel.app/api?username=StatMixedML&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV -->
-<img align="center" height="80.0px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StatMixedML&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
+<img align="center" height="110.0px" src="https://github-readme-stats.vercel.app/api?username=StatMixedML&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV -->
+<img align="center" height="90.0px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StatMixedML&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
 </p>
 
 
