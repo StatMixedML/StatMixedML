@@ -2,9 +2,9 @@
 
 I am working as a Machine Learning Scientist with special interests in
 
-- Neural Time Series Forecasting & Representation Learning
-- Probabilistic Machine Learning & Distributional Regression 
+- Neural Time Series Forecasting 
 - Self‑Supervised Representation Learning
+- Probabilistic Machine Learning & Distributional Regression 
 - Deep Learning for Tabular Data
 - Transfer Learning
 - $\ldots$
