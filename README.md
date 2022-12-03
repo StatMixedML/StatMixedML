@@ -39,7 +39,7 @@ Extending the major decision tree algorithms to a probabilistic framework.
 
 ## 💬 Ask me anything about ...
 
-The above-mentioned topics. But I am more than open to an exchange on other interesting topics as well.
+The above-mentioned areas of interest. But I am also more than open for an exchange on other interesting topics.
 
 <br />
 
