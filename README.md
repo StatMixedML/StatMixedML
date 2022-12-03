@@ -28,7 +28,7 @@ The above-mentioned topics. But I am more than open to an exchange on other inte
 <br />
 <br />
 
-## How to contact me 📫
+## 📫 How to contact me 
 
 The easiest way would be to navigate to the corresponding repo of interest and to raise an issue or start a discussion. 
 
