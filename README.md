@@ -9,8 +9,7 @@ I am working as a Machine Learning Scientist interested in
 - Deep Learning for Tabular Data
 - Self‑Supervised Representation Learning
 
-Currently, I am primarily occupied with extending the major Gradient Boosting Machines (XGBoost & LightGBM) to a probabilistic framework. <br />
-<br />
+Currently, I am primarily occupied with extending the major Gradient Boosting Machines (XGBoost & LightGBM) to a probabilistic framework. 
 <br />
 
 ## 💼 Languages and Tools 
@@ -31,27 +30,24 @@ Currently, I am primarily occupied with extending the major Gradient Boosting Ma
 The above-mentioned topics. But I am more than open to an exchange on other interesting topics as well.
 
 <br />
-<br />
 
 ## 📫 How to contact me 
 
 The easiest way would be to navigate to the corresponding repo of interest and to raise an issue or start a discussion. 
 
 <br />
-<br />
 
 
-## 💻 Overview 
+## 💻 GitHub Stats
 
 ![githubbadge](https://img.shields.io/github/followers/StatMixedML?style=social)
 ![](https://komarev.com/ghpvc/?username=StatMixedML&color=brightgreen&style=flat)
 
 <p align="center">  
 
-<img align="center" height="110.0px" src="https://github-readme-stats.vercel.app/api?username=StatMixedML&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV -->
-<img align="center" height="90.0px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StatMixedML&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
+<img align="center" height="130.0px" src="https://github-readme-stats.vercel.app/api?username=StatMixedML&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&line_height=21" /><!-- wi*quL3fcV -->
+<img align="center" height="100.0px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StatMixedML&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10" /></a>
 </p>
-
 
 
 
