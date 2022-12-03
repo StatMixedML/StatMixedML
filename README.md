@@ -26,7 +26,7 @@ The above-mentioned topics. But I am more than open to an exchange on other inte
 
 <p align="center">  
 
-<img height="100.0px" src="https://github-readme-stats.vercel.app/api?username=StatMixedML&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="100.0px" 
+<img height="100.0px" src="https://github-readme-stats.vercel.app/api?username=StatMixedML&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="80.0px" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=StatMixedML&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
 </p>
 
