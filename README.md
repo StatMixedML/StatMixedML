@@ -1,13 +1,15 @@
 ## :wave: Welcome to my Git-repo!
 
-I am working as a Machine Learning Scientist interested in 
+I am working as a Machine Learning Scientist with special interests in
 
-- Probabilistic Machine Learning
 - Neural Time Series Forecasting & Representation Learning
-- Distributional Regression 
-- Transfer Learning
-- Deep Learning for Tabular Data
+- Probabilistic Machine Learning & Distributional Regression 
 - Self‑Supervised Representation Learning
+- Deep Learning for Tabular Data
+- Transfer Learning
+- $\ldots$
+
+
 
 Currently, I am primarily occupied with extending the major Gradient Boosting Machines (XGBoost & LightGBM) to a probabilistic framework. 
 <br />
