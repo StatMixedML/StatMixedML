@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![githubbadge](https://img.shields.io/github/followers/StatMixedML?style=social)
+![githubbadge](https://img.shields.io/github/stars/StatMixedML?style=social)
+![](https://komarev.com/ghpvc/?username=StatMixedML&color=brightgreen&style=flat)
+
 <!--
 **StatMixedML/StatMixedML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
