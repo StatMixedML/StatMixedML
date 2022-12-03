@@ -9,8 +9,18 @@ I am working as a Machine Learning Scientist with special interests in
 - Transfer Learning
 - $\ldots$
 
-Currently, I am primarily occupied with extending the major Gradient Boosting Machines (XGBoost & LightGBM) to a probabilistic framework. 
 <br />
+
+## :man_scientist: I'm currently working on ...
+
+Extending the major decision tree algorithms to a probabilistic framework.  
+
+<img align="center" height="40" width="90" src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png"> <br />
+<img align="center" height="60" width="120" src="https://lightgbm.readthedocs.io/en/v3.3.2/_images/LightGBM_logo_black_text.svg"> <br />
+<img align="center" height="40" width="140" src="https://user-images.githubusercontent.com/41187941/205457965-4369ed70-3543-4b51-a4d2-6fc141fcc88f.png"> 
+
+<br />
+
 
 ## :computer: GitHub Stats
 
@@ -30,11 +40,13 @@ Currently, I am primarily occupied with extending the major Gradient Boosting Ma
 
 <p align="left">  
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> &ensp;
-  <img align="center" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg"> &ensp;
-  <img align="center" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg"> &ensp;
   <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"> &ensp;
   <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg"> &ensp;
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg"> &ensp;
+  <img align="center" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg"> &ensp;
+  <img align="center" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg"> &ensp;
   <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> &ensp;
+  <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"> &ensp;
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"> &ensp;
 </p>
 
@@ -61,7 +73,7 @@ The easiest way would be to navigate to the corresponding repo of interest and t
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
