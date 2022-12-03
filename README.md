@@ -9,23 +9,8 @@ I am working as a Machine Learning Scientist with special interests in
 - Transfer Learning
 - $\ldots$
 
-
-
 Currently, I am primarily occupied with extending the major Gradient Boosting Machines (XGBoost & LightGBM) to a probabilistic framework. 
 <br />
-
-## 💼 Languages and Tools 
-
-<p align="left">  
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> &ensp;
-  <img align="center" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg"> &ensp;
-  <img align="center" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg"> &ensp;
-  <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"> &ensp;
-  <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg"> &ensp;
-  <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> &ensp;
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"> &ensp;
-</p>
-
 
 ## :computer: GitHub Stats
 
@@ -39,6 +24,19 @@ Currently, I am primarily occupied with extending the major Gradient Boosting Ma
 </p>
 
 <br />
+
+
+## 💼 Languages and Tools 
+
+<p align="left">  
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> &ensp;
+  <img align="center" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg"> &ensp;
+  <img align="center" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg"> &ensp;
+  <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"> &ensp;
+  <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg"> &ensp;
+  <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> &ensp;
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"> &ensp;
+</p>
 
 
 ## 💬 Ask me anything about ...
