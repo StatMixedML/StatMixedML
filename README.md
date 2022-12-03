@@ -4,7 +4,16 @@
 
 ## :wave: Welcome to my Git-repo!
 
-I am working as a Machine Learning Scientist interested in Probabilistic Machine Learning, Distributional Regression and Time Series Forecasting & Representation Learning. Currently, I am primarily occupied with extending Gradient Boosting Machines to a probabilistic setting in a scalable and easy-to-use manner. <br />
+I am working as a Machine Learning Scientist interested in 
+
+- Probabilistic Machine Learning
+- Neural Time Series Forecasting & Representation Learning
+- Distributional Regression 
+- Transfer Learning
+- Deep Learning for Tabular Data
+- Self‑Supervised Representation Learning
+
+Currently, I am primarily occupied with extending the major Gradient Boosting Machines (XGBoost & LightGBM) to a probabilistic framework. <br />
 <br />
 <br />
 
@@ -36,7 +45,7 @@ The easiest way would be to navigate to the corresponding repo of interest and t
 <br />
 
 
-## 💻 My projects 
+## 💻 Overview 
 
 <p align="center">  
 
