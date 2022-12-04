@@ -48,14 +48,14 @@ The above-mentioned areas of interest. But I am also more than happy for an exch
 
 ## :speech_balloon: Quote of the day
 
-> "With four parameters I can fit an elephant and with five I can make him wiggle his trunk." (John von Neumann)
+> *"With four parameters I can fit an elephant, and with five I can make him wiggle his trunk."* (John von Neumann)
 
 <br />
 
 
 ## :mailbox_with_mail: How to contact me 
 
-The easiest way would be to navigate to the corresponding repo of interest and to raise an issue or start a discussion. 
+The easiest way is to navigate to the corresponding repo of interest and to raise an issue or start a discussion. 
 
 <br />
 
