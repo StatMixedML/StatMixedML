@@ -1,6 +1,10 @@
-## :wave: Welcome to my GitHub-Repo
+## :technologist: Welcome to my GitHub-Repo
 
-I am working as a Machine Learning Scientist with special interests in
+<p align="right">  
+<img align="right" height="150" width="150" src="https://user-images.githubusercontent.com/41187941/205481594-eafa06df-18e8-4354-b0dc-8dcbd79fc520.png">
+</p>
+
+I work as a Machine Learning Scientist with special interest in
 
 - Neural Time Series Forecasting 
 - Self‑Supervised Representation Learning
@@ -11,7 +15,7 @@ I am working as a Machine Learning Scientist with special interests in
 
 <br />
 
-## :man_scientist: I'm currently working on ...
+## :bulb: I'm currently working on ...
 
 Extending the major decision tree algorithms to a probabilistic framework.  
 
@@ -22,7 +26,7 @@ Extending the major decision tree algorithms to a probabilistic framework.
 <br />
 
 
-## 💼 Languages and Tools 
+## :computer: Languages and Tools 
 
 <p align="left">  
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> &ensp;
@@ -50,7 +54,7 @@ The easiest way would be to navigate to the corresponding repo of interest and t
 <br />
 
 
-## :computer: GitHub Stats
+## :chart_with_upwards_trend: GitHub Stats
 
 ![githubbadge](https://img.shields.io/github/followers/StatMixedML?style=social)
 ![](https://komarev.com/ghpvc/?username=StatMixedML&color=brightgreen&style=flat)
