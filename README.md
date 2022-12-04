@@ -1,4 +1,4 @@
-## :technologist: Welcome to my GitHub-Repo
+## :tada: Welcome to my GitHub-Repo
 
 <p align="right">  
 <img align="right" height="150" width="150" src="https://user-images.githubusercontent.com/41187941/205481594-eafa06df-18e8-4354-b0dc-8dcbd79fc520.png">
@@ -17,7 +17,7 @@ I work as a Machine Learning Scientist with special interest in
 
 ## :bulb: I'm currently working on
 
-Extensions of the major decision tree algorithms to a probabilistic framework that models and predicts the entire conditional distribution of univariate and multivariate response variable as a function of covariates.
+Extensions of the major decision tree algorithms to a probabilistic framework to model and predict the entire conditional distribution of univariate and multivariate target as a function of covariates.
 
 <img align="center" height="55" width="50" src="https://github.com/StatMixedML/XGBoostLSS/raw/master/figures/XGBoostLSS_inv.png"> &ensp;
 <img align="center" height="55" width="50" src="https://github.com/StatMixedML/LightGBMLSS/raw/master/figures/LightGBMLSS.png"> &ensp;
@@ -40,13 +40,13 @@ Extensions of the major decision tree algorithms to a probabilistic framework th
 </p>
 
 
-## 💬 Ask me anything about
+## :speech_balloon: Ask me anything about
 
-The above-mentioned areas of interest. But I am also more than open for an exchange on other interesting topics.
+The above-mentioned areas of interest. But I am also more than happy for an exchange on other interesting topics.
 
 <br />
 
-## 📫 How to contact me 
+## :mailbox_with_mail: How to contact me 
 
 The easiest way would be to navigate to the corresponding repo of interest and to raise an issue or start a discussion. 
 
