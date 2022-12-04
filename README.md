@@ -1,7 +1,7 @@
 ## :tada: Welcome to my GitHub-Repo
 
 <p align="right">  
-<img align="right" height="150" width="150" src="https://user-images.githubusercontent.com/41187941/205481594-eafa06df-18e8-4354-b0dc-8dcbd79fc520.png">
+<img align="right" height="130" width="130" src="https://user-images.githubusercontent.com/41187941/205481594-eafa06df-18e8-4354-b0dc-8dcbd79fc520.png">
 </p>
 
 I work as a Machine Learning Scientist with special interest in
