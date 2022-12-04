@@ -6,22 +6,21 @@
 
 I work as a Machine Learning Scientist with special interest in
 
+- Probabilistic Machine Learning & Distributional Regression 
 - Neural Time Series Forecasting 
 - Self‑Supervised Representation Learning
-- Probabilistic Machine Learning & Distributional Regression 
 - Deep Learning for Tabular Data
 - Transfer Learning
 - $\ldots$
 
 <br />
 
-## :bulb: I'm currently working on ...
+## :bulb: I'm currently working on
 
-Extending the major decision tree algorithms to a probabilistic framework.  
+Extensions of the major decision tree algorithms to a probabilistic framework that models and predicts the entire conditional distribution of univariate and multivariate response variable as a function of covariates.
 
-<img align="center" height="40" width="90" src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png"> <br />
-<img align="center" height="60" width="120" src="https://lightgbm.readthedocs.io/en/v3.3.2/_images/LightGBM_logo_black_text.svg"> <br />
-<img align="center" height="40" width="140" src="https://user-images.githubusercontent.com/41187941/205457965-4369ed70-3543-4b51-a4d2-6fc141fcc88f.png"> 
+<img align="center" height="75" width="70" src="https://github.com/StatMixedML/XGBoostLSS/raw/master/figures/XGBoostLSS_inv.png"> &ensp;
+<img align="center" height="75" width="70" src="https://github.com/StatMixedML/LightGBMLSS/raw/master/figures/LightGBMLSS.png"> &ensp;
 
 <br />
 
@@ -41,7 +40,7 @@ Extending the major decision tree algorithms to a probabilistic framework.
 </p>
 
 
-## 💬 Ask me anything about ...
+## 💬 Ask me anything about
 
 The above-mentioned areas of interest. But I am also more than open for an exchange on other interesting topics.
 
