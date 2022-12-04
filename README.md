@@ -17,7 +17,7 @@ I work as a Machine Learning Scientist with special interest in
 
 ## :bulb: I'm currently working on
 
-Extensions of the major decision tree algorithms to a probabilistic framework to model and predict the entire conditional distribution of univariate and multivariate target as a function of covariates.
+Extensions of the major decision tree algorithms to a probabilistic framework that models and predicts the entire conditional distribution of univariate and multivariate target as a function of covariates.
 
 <img align="center" height="55" width="50" src="https://github.com/StatMixedML/XGBoostLSS/raw/master/figures/XGBoostLSS_inv.png"> &ensp;
 <img align="center" height="55" width="50" src="https://github.com/StatMixedML/LightGBMLSS/raw/master/figures/LightGBMLSS.png"> &ensp;
