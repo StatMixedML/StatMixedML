@@ -42,7 +42,7 @@ Extensions of the major decision tree algorithms to a probabilistic framework th
 
 ## :thought_balloon: Ask me anything about
 
-The above-mentioned areas of interest. But I am also more than happy for an exchange on other interesting topics.
+My areas of interest. But I am also more than happy for an exchange on other interesting topics.
 
 <br />
 
