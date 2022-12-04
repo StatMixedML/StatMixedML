@@ -40,11 +40,18 @@ Extensions of the major decision tree algorithms to a probabilistic framework th
 </p>
 
 
-## :speech_balloon: Ask me anything about
+## :thought_balloon: Ask me anything about
 
 The above-mentioned areas of interest. But I am also more than happy for an exchange on other interesting topics.
 
 <br />
+
+## :speech_balloon: Quote of the day
+
+> "With four parameters I can fit an elephant and with five I can make him wiggle his trunk." (John von Neumann)
+
+<br />
+
 
 ## :mailbox_with_mail: How to contact me 
 
