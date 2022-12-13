@@ -48,7 +48,7 @@ My areas of interest. But I am also more than happy for an exchange on other int
 
 ## :speech_balloon: Quote of the day
 
-> *"With four parameters I can fit an elephant, and with five I can make him wiggle his trunk."* (John von Neumann)
+> *"With four parameters I can fit an elephant, and with five I can make him wiggle his trunk."* <br /> (John von Neumann)
 
 <br />
 
