@@ -11,7 +11,7 @@ I work as a Machine Learning Scientist with special interest in
 - Self‑Supervised Representation Learning
 - Deep Learning for Tabular Data
 - Transfer Learning
-- $\ldots$
+- ...
 
 <br />
 
