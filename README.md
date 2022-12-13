@@ -67,13 +67,11 @@ The easiest way is to navigate to the corresponding repo of interest and to rais
 
 <p align="center">  
 
-<img align="center" height="130.0px" src="https://github-readme-stats.vercel.app/api?username=StatMixedML&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&line_height=21" /><!-- wi*quL3fcV -->
+<img align="center" height="130.0px" src="https://github-readme-stats.vercel.app/api?username=StatMixedML&show_icons=true&hide_title=true&line_height=21" /><!-- wi*quL3fcV -->
 <img align="center" height="120.0px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StatMixedML&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10" /></a>
 </p>
 
 <br />
-
-
 
 
 
