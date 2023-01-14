@@ -60,12 +60,13 @@ The easiest way is to navigate to the corresponding repo of interest and to rais
 <br />
 
 
+<!-- 
 ## :chart_with_upwards_trend: GitHub Stats
 
 ![githubbadge](https://img.shields.io/github/followers/StatMixedML?style=social)
 ![](https://github.com/StatMixedML/ghpvc/?username=StatMixedML&color=brightgreen&style=flat)
 
-<!-- <p align="center">  
+<p align="center">  
 
 <img align="center" height="130.0px" src="https://github-readme-stats.vercel.app/api?username=StatMixedML&show_icons=true&hide_title=true&line_height=21" /><!-- wi*quL3fcV -->
 <img align="center" height="120.0px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StatMixedML&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10" /></a>
