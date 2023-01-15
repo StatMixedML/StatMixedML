@@ -62,7 +62,7 @@ The easiest way is to navigate to the corresponding repo of interest and to rais
 ## :chart_with_upwards_trend: GitHub Stats
 
 ![githubbadge](https://img.shields.io/github/followers/StatMixedML?style=social)
-![](https://github.com/StatMixedML/ghpvc/?username=StatMixedML&color=brightgreen&style=flat)
+<!-- ![](https://github.com/StatMixedML/ghpvc/?username=StatMixedML&color=brightgreen&style=flat) -->
 
 <p align="center">  
 
