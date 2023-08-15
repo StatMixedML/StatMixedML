@@ -32,7 +32,6 @@ Extensions of the major decision tree algorithms to a probabilistic framework th
   <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"> &ensp;
   <img align="center" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg"> &ensp;
   <img align="center" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg"> &ensp;
-    <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg"> &ensp;
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg"> &ensp;
   <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> &ensp;
   <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"> &ensp;
@@ -52,12 +51,6 @@ My areas of interest. But I am also more than happy for an exchange on other int
 
 <br />
 
-
-## :mailbox_with_mail: How to contact me 
-
-The easiest way is to navigate to the corresponding repo of interest and to raise an issue or start a discussion. 
-
-<br />
 
 ## :chart_with_upwards_trend: GitHub Stats
 
