@@ -66,7 +66,7 @@ My areas of interest. But I am also more than happy for an exchange on other int
 
 <p align="center">  
 
-<img align="center" height="130.0px" src="https://github-readme-stats.vercel.app/api?username=StatMixedML&show_icons=true&rank_icon=percentile&nclude_all_commits=true&hide_title=true&line_height=21" /><!-- wi*quL3fcV -->
+<img align="center" height="130.0px" src="https://github-readme-stats.vercel.app/api?username=StatMixedML&show_icons=true&rank_icon=percentile&nclude_all_commits=false&hide_title=true&line_height=21" /><!-- wi*quL3fcV -->
 </p>
 
 <br /> 
