@@ -6,12 +6,14 @@
 
 I work as a Machine Learning Scientist with special interest in
 
-- Probabilistic Machine Learning & Distributional Regression 
+- Statistical Machine Learning
+- Probabilistic & Distributional Modeling 
 - Neural Time Series Forecasting
 - Foundational Time Series Models
-- Self‑Supervised Representation Learning
+- Representation Learning
 - Deep Learning for Tabular Data
 - Transfer Learning
+- Tree-Based Modeling
 - ...
 
 <br />
