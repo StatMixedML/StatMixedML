@@ -61,10 +61,14 @@ My areas of interest. But I am also more than happy for an exchange on other int
     <p>— John von Neumann</p>
 </blockquote>
 
+<br />
+
 <blockquote style="border-left: 2px solid #ccc; padding-left: 20px;">
     <p><em>"For the true is the indicator both of itself and of the false."</em></p>
     <p>— Baruch Spinoza</p>
 </blockquote>
+
+<br />
 
 <blockquote style="border-left: 2px solid #ccc; padding-left: 20px;">
     <p><em>"What we don't understand, we explain to each other."</em></p>
