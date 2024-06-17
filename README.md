@@ -54,9 +54,11 @@ My areas of interest. But I am also more than happy for an exchange on other int
 
 <br />
 
-## :speech_balloon: Quote of the day
+## :speech_balloon: Quotes
 
 > *"With four parameters I can fit an elephant, and with five I can make him wiggle his trunk."* <br /> (John von Neumann)
+> *"For the true is the indicator both of itself and of the false."* <br /> (Baruch Spinoza)
+> *"What we don’t understand, we explain to each other."* <br /> (J. Robert Oppenheimer)
 
 <br />
 
