@@ -71,6 +71,13 @@ My areas of interest. But I am also more than happy for an exchange on other int
 <br />
 
 <blockquote style="border-left: 2px solid #ccc; padding-left: 20px;">
+    <p><em>"Become what you are."</em></p>
+    <p>— Friedrich Nietzsche</p>
+</blockquote>
+
+<br />
+
+<blockquote style="border-left: 2px solid #ccc; padding-left: 20px;">
     <p><em>"What we don't understand, we explain to each other."</em></p>
     <p>— J. Robert Oppenheimer</p>
 </blockquote>
