@@ -71,8 +71,8 @@ My areas of interest. But I am also more than happy for an exchange on other int
 <br />
 
 <blockquote style="border-left: 2px solid #ccc; padding-left: 20px;">
-    <p><em>"Become what you are."</em></p>
-    <p>— Friedrich Nietzsche</p>
+    <p><em>"I want AI to do my laundry and dishes so that I can do art and writing, not for AI to do my art and writing so that I can do my laundry and dishes."</em></p>
+    <p>— Joanna Maciejewska</p>
 </blockquote>
 
 <br />
