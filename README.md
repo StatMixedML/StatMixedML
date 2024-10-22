@@ -86,7 +86,7 @@ My areas of interest. But I am also more than happy for an exchange on other int
 
 <blockquote style="border-left: 2px solid #ccc; padding-left: 20px;">
     <p><em>"An expert is a person who has made all the mistakes that can be made in a very narrow field."</em></p>
-    <p>— J. Niels Bohr</p>
+    <p>— Niels Bohr</p>
 </blockquote>
 
 <br />
