@@ -91,8 +91,12 @@ My areas of interest. But I am also more than happy for an exchange on other int
 
 <br />
 
+<blockquote style="border-left: 2px solid #ccc; padding-left: 20px;">
+    <p><em>"Damit das Mögliche entsteht, muß immer wieder das Unmögliche versucht werden."</em></p>
+    <p>— Hermann Hesse</p>
+</blockquote>
 
-
+<br />
 
 
 
