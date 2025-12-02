@@ -98,6 +98,13 @@ My areas of interest. But I am also more than happy for an exchange on other int
 
 <br />
 
+<blockquote style="border-left: 2px solid #ccc; padding-left: 20px;">
+    <p><em>"Forecasting is less about predicting the future with certainty and more about making informed, data-driven decisions under uncertainty."</em></p>
+    <p>— Author unknown</p>
+</blockquote>
+
+<br />
+
 
 
 ## :chart_with_upwards_trend: GitHub Stats
