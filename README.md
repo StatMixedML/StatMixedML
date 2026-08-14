@@ -8,10 +8,8 @@ I work as a Machine Learning Scientist with special interest in
 
 - Statistical Machine Learning
 - Probabilistic & Distributional Modeling 
-- Neural Time Series Forecasting
-- Foundational Time Series Models
+- Foundational Time Series and Tabular Models
 - Representation Learning
-- Deep Learning for Tabular Data
 - Transfer Learning
 - Tree-Based Modeling
 - ...
@@ -27,8 +25,8 @@ Extensions of the major decision tree algorithms to a probabilistic framework th
 
 <br />
 
-<a href="https://api.star-history.com/svg?repos=StatMixedML/XGBoostLSS,StatMixedML/LightGBMLSS&type=Date">
-    <img src="https://api.star-history.com/svg?repos=StatMixedML/XGBoostLSS,StatMixedML/LightGBMLSS&type=Date" width="450">
+<a href="https://api.star-history.dera.page/svg?repos=StatMixedML/XGBoostLSS,StatMixedML/LightGBMLSS&type=Date">
+    <img src="https://api.star-history.dera.page/svg?repos=StatMixedML/XGBoostLSS,StatMixedML/LightGBMLSS&type=Date" width="450">
 </a>
 
 <br />
