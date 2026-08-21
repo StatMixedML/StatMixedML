@@ -9,8 +9,6 @@ I work as a Machine Learning Scientist with special interest in
 - Statistical Machine Learning
 - Probabilistic & Distributional Modeling 
 - Foundational Time Series and Tabular Models
-- Representation Learning
-- Transfer Learning
 - Tree-Based Modeling
 - ...
 
@@ -99,6 +97,13 @@ My areas of interest. But I am also more than happy for an exchange on other int
 <blockquote style="border-left: 2px solid #ccc; padding-left: 20px;">
     <p><em>"Forecasting is less about predicting the future with certainty and more about making informed, data-driven decisions under uncertainty."</em></p>
     <p>— Author unknown</p>
+</blockquote>
+
+<br />
+
+<blockquote style="border-left: 2px solid #ccc; padding-left: 20px;">
+    <p><em>"The public has a distorted view of science, because children are taught in school that science is a collection of firmly established truths. In fact, science is not a collection of truths. It is a continuing exploration of mysteries."</em></p>
+    <p>— Freeman Dyson</p>
 </blockquote>
 
 <br />
