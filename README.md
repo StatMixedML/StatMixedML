@@ -23,9 +23,11 @@ Extensions of the major decision tree algorithms to a probabilistic framework th
 
 <br />
 
-<a href="https://api.star-history.dera.page/svg?repos=StatMixedML/XGBoostLSS,StatMixedML/LightGBMLSS&type=Date">
-    <img src="https://api.star-history.dera.page/svg?repos=StatMixedML/XGBoostLSS,StatMixedML/LightGBMLSS&type=Date" width="450">
-</a>
+## ⭐History
+
+ <a href="https://api.star-history.com/svg?repos=StatMixedML/XGBoostLSS,StatMixedML/LightGBMLSS,StatMixedML/Hyper-Trees&type=Date">
+      <img src="https://api.star-history.com/svg?repos=StatMixedML/XGBoostLSS,StatMixedML/LightGBMLSS,StatMixedML/Hyper-Trees&type=Date" width="450">
+  </a>
 
 <br />
 
